@@ -2,4 +2,3 @@
 
 🔭 I’m currently working on mobile apps development using Flutter\
 🌱 Learning Flutter, ReactJS, Django and more...\
-📫 How to reach me: john.khor97@gmail.com
